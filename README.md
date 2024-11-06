@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mariosonic1793
+- 👋 Hi, I’m mariosonic1793
 - 👀 I’m interested in Sonic the Hedgehog and other video game series.
 - 🌱 I’m currently learning video game design and computer science.
-- 💞️ I’m looking to collaborate on whatever my friends are working on.
+- 💞️ I want to collaborate on whatever my friends are working on.
 - 📫 My username is the same on every website I'm on.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: Cookies are baked while bacon is cooked.
